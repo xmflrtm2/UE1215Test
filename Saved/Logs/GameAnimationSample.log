@@ -3755,3 +3755,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-07.41.13:125][424]LogExit: Transaction tracking system shut down
 [2025.12.15-07.41.15:061][424]LogExit: Object subsystem successfully closed.
 [2025.12.15-07.41.15:153][424]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.15-07.41.16:037][424]LogMemoryProfiler: Shutdown
+[2025.12.15-07.41.16:037][424]LogNetworkingProfiler: Shutdown
+[2025.12.15-07.41.16:037][424]LoadingProfiler: Shutdown
+[2025.12.15-07.41.16:037][424]LogTimingProfiler: Shutdown
+[2025.12.15-07.41.16:489][424]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.15-07.41.16:531][424]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.15-07.41.16:531][424]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD788782C-4903-4B7A-07FC-99B6399BD917%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=3d051b3f47bd6519d4cbd4a35e317669%7C0b24cd9d06f446ae84d69aab4f0d92f3%7C6175129e-1107-4f3b-827a-af90742a4a8f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.15-07.41.17:585][424]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.15-07.41.17:596][424]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.15-07.41.17:596][424]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.15-07.41.17:598][424]RenderDocPlugin: plugin has been unloaded.
+[2025.12.15-07.41.17:600][424]LogXGEController: Cleaning working directory: C:/Users/YONSAI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.15-07.41.17:606][424]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.15-07.41.17:606][424]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.15-07.41.17:606][424]LogPakFile: Destroying PakPlatformFile
+[2025.12.15-07.41.18:354][424]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.15-07.41.18:441][424]LogExit: Exiting.
+[2025.12.15-07.41.18:501][424]Log file closed, 12/15/25 16:41:18
