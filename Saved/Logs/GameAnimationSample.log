@@ -2120,3 +2120,1395 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-07.01.43:222][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2048.271240
 [2025.12.15-07.01.44:225][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.15-07.01.44:226][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2048.939453, Update Interval: 324.463623
+[2025.12.15-07.02.30:526][299]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.30:584][299]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/YONSAI/Downloads/Idle.fbx]
+[2025.12.15-07.02.32:626][299]LogSlate: Window 'Import Content' being destroyed
+[2025.12.15-07.02.32:665][299]LogInterchangeEngine: [Pending] Importing
+[2025.12.15-07.02.32:750][300]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.35:206][300]LogSlate: Window 'Message' being destroyed
+[2025.12.15-07.02.35:217][300]Message dialog closed, result: YesAll, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/TestPlayer/Character/Ch09_1001_Diffuse.Ch09_1001_Diffuse'?
+[2025.12.15-07.02.35:390][304]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.35:953][312]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.36:019][313]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TestPlayer/Character/Idle_Anim.Idle_Anim (Required Memory Estimate: 3.84 MB)
+[2025.12.15-07.02.36:074][313]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2025.12.15-07.02.36:479][313]LogSkeletalMesh: Built Skeletal Mesh [0.40s] /Game/TestPlayer/Character/Idle.Idle
+[2025.12.15-07.02.36:646][314]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TestPlayer/Character/Idle_Anim.Idle_Anim (Required Memory Estimate: 3.84 MB)
+[2025.12.15-07.02.37:252][314]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TestPlayer/Character/Idle_Anim.Idle_Anim (Required Memory Estimate: 3.84 MB)
+[2025.12.15-07.02.37:255][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.12.15-07.02.37:265][314]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.02.37:265][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.02.37:306][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.12.15-07.02.37:376][315]LogInterchangeEngine: Display: Interchange import completed [C:/Users/YONSAI/Downloads/Idle.fbx]
+[2025.12.15-07.02.37:376][315]Interchange: Warning: [C:/Users/YONSAI/Downloads/Idle.fbx : 'Idle', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.12.15-07.02.37:376][315]Interchange: Warning: [C:/Users/YONSAI/Downloads/Idle.fbx : 'Idle', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.15-07.02.37:482][315]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.15-07.02.37:482][315]LogInterchangeEngine: [Success] Import Done
+[2025.12.15-07.02.37:567][316]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.12.15-07.02.37:943][321]LogAnimationCompression: Display: Storing compressed animation data for /Game/TestPlayer/Character/Idle_Anim.Idle_Anim, at AnimationSequence/243b7feeea1a483903ee4088361e6a45d3b66ac2
+[2025.12.15-07.02.43:699][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.12.15-07.02.43:709][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.02.43:747][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Specular] ([1] browsable assets)...
+[2025.12.15-07.02.43:749][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Specular.Ch09_1001_Specular]
+[2025.12.15-07.02.43:749][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Specular]
+[2025.12.15-07.02.43:765][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Specular
+[2025.12.15-07.02.43:766][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Specular26EA6C834E545B4A5E60B8850E1D2FD8.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Specular.uasset'
+[2025.12.15-07.02.43:768][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Normal] ([1] browsable assets)...
+[2025.12.15-07.02.43:772][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Normal.Ch09_1001_Normal]
+[2025.12.15-07.02.43:772][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Normal]
+[2025.12.15-07.02.43:928][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Normal
+[2025.12.15-07.02.43:929][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_NormalE312B2C445B2C2C4D04B42BBE970F2B8.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Normal.uasset'
+[2025.12.15-07.02.43:934][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Glossiness] ([1] browsable assets)...
+[2025.12.15-07.02.43:937][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Glossiness.Ch09_1001_Glossiness]
+[2025.12.15-07.02.43:938][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Glossiness]
+[2025.12.15-07.02.43:978][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Glossiness
+[2025.12.15-07.02.43:980][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Glossiness9BF4D1574B46DE068DD4C7B63927296B.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Glossiness.uasset'
+[2025.12.15-07.02.43:982][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Diffuse] ([1] browsable assets)...
+[2025.12.15-07.02.43:984][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Diffuse.Ch09_1001_Diffuse]
+[2025.12.15-07.02.43:984][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Diffuse]
+[2025.12.15-07.02.44:100][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Diffuse
+[2025.12.15-07.02.44:101][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Diffuse6D8CFB22400BA0B58C6A4E818C987C11.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Diffuse.uasset'
+[2025.12.15-07.02.44:105][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Idle_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-07.02.44:148][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/TestPlayer/Character/Idle_PhysicsAsset.Idle_PhysicsAsset]
+[2025.12.15-07.02.44:148][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Idle_PhysicsAsset]
+[2025.12.15-07.02.44:153][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Idle_PhysicsAsset
+[2025.12.15-07.02.44:153][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Idle_PhysicsAsset74F725914DEA63B62378F184BBA695E7.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Idle_PhysicsAsset.uasset'
+[2025.12.15-07.02.44:155][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Idle] ([1] browsable assets)...
+[2025.12.15-07.02.44:165][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/TestPlayer/Character/Idle.Idle]
+[2025.12.15-07.02.44:165][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Idle]
+[2025.12.15-07.02.44:165][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Character/Idle" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Idle.uasset" SILENT=true
+[2025.12.15-07.02.44:196][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Idle
+[2025.12.15-07.02.44:197][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Idle4D3629F54BBD5A2F1B7BC69C7783BBF9.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Idle.uasset'
+[2025.12.15-07.02.44:199][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Idle_Anim] ([1] browsable assets)...
+[2025.12.15-07.02.44:212][542]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TestPlayer/Character/Idle_Anim.Idle_Anim]
+[2025.12.15-07.02.44:212][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Idle_Anim]
+[2025.12.15-07.02.44:212][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Character/Idle_Anim" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Idle_Anim.uasset" SILENT=true
+[2025.12.15-07.02.44:221][542]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Idle_Anim
+[2025.12.15-07.02.44:221][542]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Idle_Anim72837A91491C71EF284CDDAD13C5C369.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Idle_Anim.uasset'
+[2025.12.15-07.02.44:232][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 522.740 ms (total: 1.67 sec)
+[2025.12.15-07.02.44:300][542]LogContentValidation: Display: Starting to validate 7 assets
+[2025.12.15-07.02.44:300][542]LogContentValidation: Enabled validators:
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.02.44:300][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.02.44:300][542]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Specular Validating asset
+[2025.12.15-07.02.44:300][542]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Normal Validating asset
+[2025.12.15-07.02.44:300][542]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Glossiness Validating asset
+[2025.12.15-07.02.44:300][542]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Diffuse Validating asset
+[2025.12.15-07.02.44:300][542]AssetCheck: /Game/TestPlayer/Character/Idle_PhysicsAsset Validating asset
+[2025.12.15-07.02.44:301][542]AssetCheck: /Game/TestPlayer/Character/Idle Validating asset
+[2025.12.15-07.02.44:301][542]AssetCheck: /Game/TestPlayer/Character/Idle_Anim Validating asset
+[2025.12.15-07.02.54:323][685]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.54:372][685]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/YONSAI/Downloads/Ch09_nonPBR.fbx]
+[2025.12.15-07.02.56:195][685]LogSlate: Window 'Import Content' being destroyed
+[2025.12.15-07.02.56:238][685]LogInterchangeEngine: [Pending] Importing
+[2025.12.15-07.02.56:340][686]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.58:111][686]LogSlate: Window 'Message' being destroyed
+[2025.12.15-07.02.58:151][686]Message dialog closed, result: YesAll, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/TestPlayer/Character/Ch09_1001_Diffuse.Ch09_1001_Diffuse'?
+[2025.12.15-07.02.58:334][690]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.58:799][702]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.02.58:857][703]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TestPlayer/Character/Ch09_nonPBR_Anim.Ch09_nonPBR_Anim (Required Memory Estimate: 0.14 MB)
+[2025.12.15-07.02.58:858][703]LogAnimationCompression: Display: Storing compressed animation data for /Game/TestPlayer/Character/Ch09_nonPBR_Anim.Ch09_nonPBR_Anim, at AnimationSequence/55e4d67141c8b97a4d01c360e5ea0b7debb820b4
+[2025.12.15-07.02.58:909][703]LogSkeletalMesh: Building Skeletal Mesh Ch09_nonPBR...
+[2025.12.15-07.02.59:570][726]LogSkeletalMesh: Built Skeletal Mesh [0.66s] /Game/TestPlayer/Character/Ch09_nonPBR.Ch09_nonPBR
+[2025.12.15-07.02.59:635][727]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.12.15-07.02.59:643][727]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.02.59:643][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.02.59:680][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.15-07.02.59:742][728]LogInterchangeEngine: Display: Interchange import completed [C:/Users/YONSAI/Downloads/Ch09_nonPBR.fbx]
+[2025.12.15-07.02.59:742][728]Interchange: Warning: [C:/Users/YONSAI/Downloads/Ch09_nonPBR.fbx : 'Ch09_nonPBR', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.12.15-07.02.59:742][728]Interchange: Warning: [C:/Users/YONSAI/Downloads/Ch09_nonPBR.fbx : 'Ch09_nonPBR', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.15-07.02.59:852][728]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.15-07.02.59:852][728]LogInterchangeEngine: [Success] Import Done
+[2025.12.15-07.03.00:142][732]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.12.15-07.03.10:385][ 49]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.03.10:491][ 49]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/YONSAI/Downloads/character.fbx]
+[2025.12.15-07.03.23:331][ 49]LogSlate: Window 'Import Content' being destroyed
+[2025.12.15-07.03.23:365][ 49]LogInterchangeEngine: [Pending] Importing
+[2025.12.15-07.03.23:455][ 50]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.12.15-07.03.23:455][ 50]LogInterchangeEngine: [Success] Import Canceled
+[2025.12.15-07.03.25:750][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.15-07.03.25:762][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.03.25:808][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Specular] ([1] browsable assets)...
+[2025.12.15-07.03.25:811][136]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Specular.Ch09_1001_Specular]
+[2025.12.15-07.03.25:811][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Specular]
+[2025.12.15-07.03.25:826][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Specular
+[2025.12.15-07.03.25:827][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Specular2DB8EC4A4D11A52B5A91B8A6035D713F.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Specular.uasset'
+[2025.12.15-07.03.25:829][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Normal] ([1] browsable assets)...
+[2025.12.15-07.03.25:832][136]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Normal.Ch09_1001_Normal]
+[2025.12.15-07.03.25:832][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Normal]
+[2025.12.15-07.03.25:982][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Normal
+[2025.12.15-07.03.25:983][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Normal51EAC7354335093B322051820EA79DC2.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Normal.uasset'
+[2025.12.15-07.03.25:987][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Glossiness] ([1] browsable assets)...
+[2025.12.15-07.03.25:990][136]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Glossiness.Ch09_1001_Glossiness]
+[2025.12.15-07.03.25:990][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Glossiness]
+[2025.12.15-07.03.26:030][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Glossiness
+[2025.12.15-07.03.26:031][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_GlossinessD0C962A944AFAD380E50B9898D54DAA7.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Glossiness.uasset'
+[2025.12.15-07.03.26:034][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Diffuse] ([1] browsable assets)...
+[2025.12.15-07.03.26:036][136]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Diffuse.Ch09_1001_Diffuse]
+[2025.12.15-07.03.26:036][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Diffuse]
+[2025.12.15-07.03.26:142][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Diffuse
+[2025.12.15-07.03.26:143][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Diffuse305563374B5CBF79F3EDE79A607570C6.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Diffuse.uasset'
+[2025.12.15-07.03.26:147][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-07.03.26:194][136]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset.Ch09_nonPBR_PhysicsAsset]
+[2025.12.15-07.03.26:194][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset]
+[2025.12.15-07.03.26:198][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset
+[2025.12.15-07.03.26:198][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_nonPBR_PhysicsAsset38E3219E49DEBE5F29E1F190362F5DBF.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset.uasset'
+[2025.12.15-07.03.26:200][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_nonPBR] ([1] browsable assets)...
+[2025.12.15-07.03.26:212][136]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/TestPlayer/Character/Ch09_nonPBR.Ch09_nonPBR]
+[2025.12.15-07.03.26:212][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_nonPBR]
+[2025.12.15-07.03.26:212][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Character/Ch09_nonPBR" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_nonPBR.uasset" SILENT=true
+[2025.12.15-07.03.26:245][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_nonPBR
+[2025.12.15-07.03.26:245][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_nonPBREE4D4523440FC25F578EE0A112B847EA.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_nonPBR.uasset'
+[2025.12.15-07.03.26:248][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_nonPBR_Anim] ([1] browsable assets)...
+[2025.12.15-07.03.26:258][136]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TestPlayer/Character/Ch09_nonPBR_Anim.Ch09_nonPBR_Anim]
+[2025.12.15-07.03.26:258][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_nonPBR_Anim]
+[2025.12.15-07.03.26:266][136]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_nonPBR_Anim
+[2025.12.15-07.03.26:266][136]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_nonPBR_Anim5CD3628D4BC4684CA11811A82FE7F35E.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_nonPBR_Anim.uasset'
+[2025.12.15-07.03.26:278][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 515.798 ms (total: 2.19 sec)
+[2025.12.15-07.03.26:342][136]LogContentValidation: Display: Starting to validate 7 assets
+[2025.12.15-07.03.26:342][136]LogContentValidation: Enabled validators:
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.03.26:342][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.03.26:342][136]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Specular Validating asset
+[2025.12.15-07.03.26:342][136]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Normal Validating asset
+[2025.12.15-07.03.26:342][136]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Glossiness Validating asset
+[2025.12.15-07.03.26:342][136]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Diffuse Validating asset
+[2025.12.15-07.03.26:342][136]AssetCheck: /Game/TestPlayer/Character/Ch09_nonPBR_PhysicsAsset Validating asset
+[2025.12.15-07.03.26:343][136]AssetCheck: /Game/TestPlayer/Character/Ch09_nonPBR Validating asset
+[2025.12.15-07.03.26:343][136]AssetCheck: /Game/TestPlayer/Character/Ch09_nonPBR_Anim Validating asset
+[2025.12.15-07.03.44:701][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.03.44:719][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.03.44:719][870]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.03.44:722][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003069s)
+[2025.12.15-07.03.44:722][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003143s)
+[2025.12.15-07.03.44:752][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.12.15-07.03.44:761][870]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.03.44:765][870]LogPlayLevel: PIE: World Init took: (0.004152s)
+[2025.12.15-07.03.44:766][870]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.03.44:767][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.03.44:767][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.03.44:767][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.03.44:767][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.03.44:767][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.03.44:771][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.03.44:810][870]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.03.44:811][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.03.44:811][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.03.44:811][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.03.44:814][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.15-07.03.44:815][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.15-07.03.44:818][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.15-07.03.44:818][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.15-07.03.44:818][870]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.15-07.03.44:818][870]LogAudio: Display: Audio Device (ID: 3) registered with world 'MyGame'.
+[2025.12.15-07.03.44:818][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.15-07.03.44:824][870]LogLoad: Game class is 'GM_Sandbox_C'
+[2025.12.15-07.03.44:826][870]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.03.44
+[2025.12.15-07.03.44:826][870]LogWorld: Bringing up level for play took: 0.001733
+[2025.12.15-07.03.44:832][870]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.12.15-07.03.44:841][870]PIE: Server logged in
+[2025.12.15-07.03.44:844][870]PIE: Play in editor total start time 0.133 seconds.
+[2025.12.15-07.04.09:221][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.04.09:221][878]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.04.09:222][878]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.04.09:223][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.04.09:229][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.04.09:242][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.04.09:268][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.04.09:268][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.15-07.04.09:269][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.12.15-07.04.09:273][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.12.15-07.04.09:285][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.12.15-07.04.09:449][879]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.12.15-07.06.58:295][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.06.58:320][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.06.58:320][507]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.06.58:324][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003629s)
+[2025.12.15-07.06.58:324][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003718s)
+[2025.12.15-07.06.58:356][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.12.15-07.06.58:363][507]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.06.58:367][507]LogPlayLevel: PIE: World Init took: (0.004182s)
+[2025.12.15-07.06.58:368][507]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.06.58:368][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.06.58:368][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.06.58:368][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.06.58:368][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.06.58:368][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.06.58:373][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.06.58:412][507]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.06.58:414][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.06.58:414][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.06.58:414][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.06.58:417][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.15-07.06.58:417][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.15-07.06.58:421][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.15-07.06.58:421][507]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.15-07.06.58:421][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.15-07.06.58:421][507]LogAudio: Display: Audio Device (ID: 4) registered with world 'MyGame'.
+[2025.12.15-07.06.58:421][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.15-07.06.58:427][507]LogLoad: Game class is 'GM_Sandbox_C'
+[2025.12.15-07.06.58:429][507]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.06.58
+[2025.12.15-07.06.58:430][507]LogWorld: Bringing up level for play took: 0.002206
+[2025.12.15-07.06.58:435][507]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.12.15-07.06.58:444][507]PIE: Server logged in
+[2025.12.15-07.06.58:447][507]PIE: Play in editor total start time 0.141 seconds.
+[2025.12.15-07.07.48:907][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2413.955322
+[2025.12.15-07.07.49:189][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.07.49:189][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2414.202637, Update Interval: 343.714111
+[2025.12.15-07.08.31:290][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.08.31:291][975]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.08.31:291][975]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.08.31:292][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.08.31:297][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.08.31:309][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.08.31:333][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.08.31:333][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.15-07.08.31:334][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.15-07.08.31:338][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.12.15-07.08.31:350][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.12.15-07.08.31:458][976]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.12.15-07.08.53:836][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.15-07.08.53:847][951]Cmd: MAP LOAD FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/Levels/DefaultLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-07.08.53:901][951]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.08.53:901][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.08.53:926][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-07.08.53:931][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.12.15-07.08.53:940][951]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.08.54:049][951]LogAudio: Display: Audio Device (ID: 1) registered with world 'DefaultLevel'.
+[2025.12.15-07.08.54:050][951]LogChaosDD: Creating Chaos Debug Draw Scene for world DefaultLevel
+[2025.12.15-07.08.54:168][951]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-07.08.54:205][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.15-07.08.54:233][951]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-07.08.54:233][951]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2025.12.15-07.08.54:234][951]LogSlate: Window 'Open Level' being destroyed
+[2025.12.15-07.08.56:933][ 63]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.08.56:955][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.08.56:955][ 63]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DefaultLevel
+[2025.12.15-07.08.56:988][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032451s)
+[2025.12.15-07.08.56:988][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DefaultLevel.DefaultLevel to /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel (0.032530s)
+[2025.12.15-07.08.57:023][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.12.15-07.08.57:036][ 63]LogChaosDD: Creating Chaos Debug Draw Scene for world DefaultLevel
+[2025.12.15-07.08.57:040][ 63]LogPlayLevel: PIE: World Init took: (0.004168s)
+[2025.12.15-07.08.57:042][ 63]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.08.57:042][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.08.57:042][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.08.57:042][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.08.57:042][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.08.57:042][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.08.57:047][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.08.57:082][ 63]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.08.57:082][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.08.57:082][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.08.57:082][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.08.57:086][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.15-07.08.57:086][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.15-07.08.57:089][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.15-07.08.57:089][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.15-07.08.57:089][ 63]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.15-07.08.57:089][ 63]LogAudio: Display: Audio Device (ID: 5) registered with world 'DefaultLevel'.
+[2025.12.15-07.08.57:089][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.15-07.08.57:095][ 63]LogLoad: Game class is 'GM_Sandbox_C'
+[2025.12.15-07.08.57:106][ 63]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel up for play (max tick rate 0) at 2025.12.15-16.08.57
+[2025.12.15-07.08.57:107][ 63]LogWorld: Bringing up level for play took: 0.011583
+[2025.12.15-07.08.57:112][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.12.15-07.08.57:123][ 63]PIE: Server logged in
+[2025.12.15-07.08.57:126][ 63]PIE: Play in editor total start time 0.184 seconds.
+[2025.12.15-07.08.59:425][150]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2025.12.15-07.08.59:739][153]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_74
+[2025.12.15-07.08.59:760][153]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.08.59:881][154]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_75
+[2025.12.15-07.08.59:991][154]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.09.00:079][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_76
+[2025.12.15-07.09.00:109][155]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.09.00:164][156]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_77
+[2025.12.15-07.09.00:212][156]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.09.00:331][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_78
+[2025.12.15-07.09.00:436][160]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_79
+[2025.12.15-07.09.00:474][160]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.09.00:587][163]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_80
+[2025.12.15-07.09.00:750][165]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2025.12.15-07.09.04:828][295]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'TwinBlast' with 'SKM_TwinBlast_ActionHero'
+[2025.12.15-07.09.05:736][310]LogPSOHitching: Encountered 50 PSO creation hitches so far (23 graphics, 27 compute). 0 of them were precached.
+[2025.12.15-07.09.05:804][310]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.15-07.09.07:599][344]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'TwinBlast' with 'SKM_TwinBlast_ActionHero'
+[2025.12.15-07.09.10:033][432]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'TwinBlast' with 'SKM_TwinBlast_ActionHero'
+[2025.12.15-07.09.10:349][445]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'TwinBlast' with 'SKM_TwinBlast_ActionHero'
+[2025.12.15-07.09.11:707][493]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'TwinBlast' with 'SKM_TwinBlast_ActionHero'
+[2025.12.15-07.09.13:870][568]LogSlate: Window 'Game Animation Widget' being destroyed
+[2025.12.15-07.09.13:878][568]LogSlate: Window 'Game Animation Widget' being destroyed
+[2025.12.15-07.09.23:849][962]Cmd: ke * SetLevelStyle 1
+[2025.12.15-07.09.23:866][962]Called 'SetLevelStyle 1' on everything in the world and 1 instances succeeded
+[2025.12.15-07.09.25:719][ 33]Cmd: ke * SetLevelStyle 0
+[2025.12.15-07.09.25:734][ 33]Called 'SetLevelStyle 0' on everything in the world and 1 instances succeeded
+[2025.12.15-07.09.43:972][739]LogSlate: Window 'Controls' being destroyed
+[2025.12.15-07.09.43:982][739]LogSlate: Window 'Controls' being destroyed
+[2025.12.15-07.09.53:067][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.09.53:067][ 94]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DefaultLevel
+[2025.12.15-07.09.53:068][ 94]LogWorld: UWorld::CleanupWorld for DefaultLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.09.53:072][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.09.53:079][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.09.53:097][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.09.53:126][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.09.53:128][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.15-07.09.53:129][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.12.15-07.09.53:133][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.12.15-07.09.53:153][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.12.15-07.09.53:226][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.12.15-07.10.00:894][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.12.15-07.10.00:901][417]Cmd: MAP LOAD FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-07.10.00:957][417]LogWorld: UWorld::CleanupWorld for DefaultLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.00:957][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.00:987][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-07.10.00:995][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.12.15-07.10.01:002][417]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.10.01:006][417]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyGame'.
+[2025.12.15-07.10.01:007][417]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.10.01:076][417]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-07.10.01:108][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.12.15-07.10.01:135][417]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-07.10.01:136][417]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2025.12.15-07.10.01:137][417]LogSlate: Window 'Open Level' being destroyed
+[2025.12.15-07.10.02:845][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.10.02:871][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.10.02:872][485]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.10.02:875][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002834s)
+[2025.12.15-07.10.02:875][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.002915s)
+[2025.12.15-07.10.02:901][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.12.15-07.10.02:912][485]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.10.02:915][485]LogPlayLevel: PIE: World Init took: (0.004042s)
+[2025.12.15-07.10.02:918][485]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.10.02:918][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.10.02:918][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.10.02:918][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.10.02:918][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.10.02:918][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.10.02:922][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.10.02:960][485]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.10.02:960][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.10.02:960][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.10.02:960][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.10.02:963][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.15-07.10.02:963][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.15-07.10.02:967][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.15-07.10.02:967][485]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.15-07.10.02:967][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.15-07.10.02:967][485]LogAudio: Display: Audio Device (ID: 6) registered with world 'MyGame'.
+[2025.12.15-07.10.02:967][485]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.15-07.10.02:973][485]LogLoad: Game class is 'GM_Sandbox_C'
+[2025.12.15-07.10.02:976][485]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.10.02
+[2025.12.15-07.10.02:976][485]LogWorld: Bringing up level for play took: 0.002511
+[2025.12.15-07.10.02:981][485]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.12.15-07.10.02:989][485]PIE: Server logged in
+[2025.12.15-07.10.02:992][485]PIE: Play in editor total start time 0.136 seconds.
+[2025.12.15-07.10.11:057][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.10.11:058][807]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.10.11:058][807]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.10.11:058][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.11:065][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.10.11:078][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.10.11:105][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.10.11:105][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.15-07.10.11:105][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.12.15-07.10.11:110][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.12.15-07.10.11:126][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.12.15-07.10.11:202][808]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.12.15-07.12.00:949][355]LogSlate: Window 'Content Browser 2' being destroyed
+[2025.12.15-07.12.16:756][909]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/ABP_SandboxCharacter.ABP_SandboxCharacter
+[2025.12.15-07.12.16:766][909]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_82
+[2025.12.15-07.12.16:773][909]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_83
+[2025.12.15-07.12.16:782][909]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.16:973][909]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-07.12.18:462][909]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_84
+[2025.12.15-07.12.18:985][909]LogSlate: Took 0.012589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.15-07.12.23:144][998]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/UEFN_Mannequin/Meshes/SKM_UEFN_Mannequin.SKM_UEFN_Mannequin
+[2025.12.15-07.12.23:145][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_85
+[2025.12.15-07.12.23:156][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_85:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.32:100][223]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TestPlayer/Character/Ch09_nonPBR.Ch09_nonPBR
+[2025.12.15-07.12.32:101][223]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2025.12.15-07.12.32:110][223]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.38:110][355]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.12.38:110][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.12.38:319][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2025.12.15-07.12.41:084][436]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TestPlayer/Character/Waving_Gesture.Waving_Gesture
+[2025.12.15-07.12.41:085][436]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2025.12.15-07.12.41:119][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.49:388][625]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.12.49:389][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.12.49:554][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.12.15-07.12.55:255][795]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TestPlayer/Character/Idle.Idle
+[2025.12.15-07.12.55:256][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_88
+[2025.12.15-07.12.55:265][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.58:358][841]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim
+[2025.12.15-07.12.58:359][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_89
+[2025.12.15-07.12.58:371][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_89:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.12.58:629][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_90
+[2025.12.15-07.12.59:249][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_91
+[2025.12.15-07.13.01:661][893]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.01:661][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.01:681][893]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.01:681][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.01:748][893]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.01:748][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.01:848][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.12.15-07.13.03:833][947]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TestPlayer/Character/Waving_Gesture.Waving_Gesture
+[2025.12.15-07.13.03:834][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2025.12.15-07.13.03:846][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.13.05:768][971]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim
+[2025.12.15-07.13.05:769][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2025.12.15-07.13.05:778][971]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.13.06:050][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_94
+[2025.12.15-07.13.06:768][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_95
+[2025.12.15-07.13.09:036][ 16]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.09:036][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.09:056][ 16]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.09:056][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.09:123][ 16]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.09:123][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.09:226][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.12.15-07.13.12:922][118]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim
+[2025.12.15-07.13.12:923][118]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2025.12.15-07.13.12:932][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.13.13:194][118]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2025.12.15-07.13.13:863][118]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_98
+[2025.12.15-07.13.19:290][229]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_99
+[2025.12.15-07.13.19:352][229]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.19:352][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.19:460][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.12.15-07.13.20:664][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_100
+[2025.12.15-07.13.20:724][252]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.20:724][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.20:811][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2025.12.15-07.13.23:936][320]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.23:937][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.23:957][320]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.23:958][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.24:028][320]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.13.24:029][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.13.24:094][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2025.12.15-07.13.43:034][656]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin
+[2025.12.15-07.13.43:035][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_101
+[2025.12.15-07.13.43:046][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.13.43:978][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_102
+[2025.12.15-07.14.14:223][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2799.264893
+[2025.12.15-07.14.14:524][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.14.14:524][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2799.537109, Update Interval: 319.094818
+[2025.12.15-07.15.11:673][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestPlayer/MyGameModeTest.MyGameModeTest
+[2025.12.15-07.15.11:674][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2025.12.15-07.15.37:765][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.15.37:791][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.15.37:791][249]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.15.37:794][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002963s)
+[2025.12.15-07.15.37:794][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003022s)
+[2025.12.15-07.15.37:897][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2025.12.15-07.15.37:908][249]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.15.37:912][249]LogPlayLevel: PIE: World Init took: (0.004246s)
+[2025.12.15-07.15.37:913][249]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.15.37:913][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.15.37:913][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.15.37:913][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.15.37:913][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.15.37:913][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.15.37:918][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.15.37:952][249]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.15.37:953][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.15.37:953][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.15.37:953][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.15.37:955][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.15-07.15.37:955][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.15-07.15.37:959][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.15-07.15.37:959][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.15-07.15.37:959][249]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.15-07.15.37:959][249]LogAudio: Display: Audio Device (ID: 7) registered with world 'MyGame'.
+[2025.12.15-07.15.37:959][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.15-07.15.37:965][249]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.15.37:967][249]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.15.37
+[2025.12.15-07.15.37:967][249]LogWorld: Bringing up level for play took: 0.002001
+[2025.12.15-07.15.37:972][249]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2025.12.15-07.15.37:981][249]PIE: Server logged in
+[2025.12.15-07.15.37:983][249]PIE: Play in editor total start time 0.208 seconds.
+[2025.12.15-07.15.42:227][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.15.42:227][382]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.15.42:228][382]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.15.42:228][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.15.42:260][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.15.42:293][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.15.42:348][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.15.42:349][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.15-07.15.42:349][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.12.15-07.15.42:354][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.12.15-07.15.42:367][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2025.12.15-07.15.42:525][383]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2025.12.15-07.15.48:949][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2025.12.15-07.15.48:960][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.15.49:004][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/MyGame" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.15-07.15.49:099][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.15-07.15.49:111][600]LogSavePackage: Moving output files for package: /Game/TestPlayer/MyGame
+[2025.12.15-07.15.49:112][600]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/MyGame686A97B848575EDD4298178695EFD2D2.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGame.umap'
+[2025.12.15-07.15.49:135][600]LogFileHelpers: Saving map 'MyGame' took 0.131
+[2025.12.15-07.15.49:135][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/MyGameModeTest] ([2] browsable assets)...
+[2025.12.15-07.15.49:135][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/MyGameModeTest]
+[2025.12.15-07.15.49:135][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/MyGameModeTest" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGameModeTest.uasset" SILENT=true
+[2025.12.15-07.15.49:139][600]LogSavePackage: Moving output files for package: /Game/TestPlayer/MyGameModeTest
+[2025.12.15-07.15.49:140][600]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/MyGameModeTest795CA3AE4B573262CEA0A18E8DA70466.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGameModeTest.uasset'
+[2025.12.15-07.15.49:150][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.098 ms (total: 2.38 sec)
+[2025.12.15-07.15.49:218][600]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.15-07.15.49:218][600]LogContentValidation: Enabled validators:
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.15.49:218][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.15.49:218][600]AssetCheck: /Game/TestPlayer/MyGame Validating asset
+[2025.12.15-07.15.49:219][600]AssetCheck: /Game/TestPlayer/MyGameModeTest Validating asset
+[2025.12.15-07.15.49:691][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2025.12.15-07.15.50:676][645]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.15.50:701][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.15.50:701][645]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.15.50:704][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003092s)
+[2025.12.15-07.15.50:704][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003163s)
+[2025.12.15-07.15.50:755][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.12.15-07.15.50:762][645]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.15.50:766][645]LogPlayLevel: PIE: World Init took: (0.004072s)
+[2025.12.15-07.15.50:767][645]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.15.50:767][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.15.50:767][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.15.50:767][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.15.50:767][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.15.50:767][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.15.50:772][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.15.50:807][645]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.15.50:807][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.15.50:807][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.15.50:808][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.15.50:810][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.15-07.15.50:810][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.15-07.15.50:814][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.15-07.15.50:814][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.15-07.15.50:814][645]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.15-07.15.50:814][645]LogAudio: Display: Audio Device (ID: 8) registered with world 'MyGame'.
+[2025.12.15-07.15.50:815][645]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.15-07.15.50:820][645]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.15.50:822][645]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.15.50
+[2025.12.15-07.15.50:822][645]LogWorld: Bringing up level for play took: 0.001721
+[2025.12.15-07.15.50:827][645]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2025.12.15-07.15.50:836][645]PIE: Server logged in
+[2025.12.15-07.15.50:839][645]PIE: Play in editor total start time 0.154 seconds.
+[2025.12.15-07.16.05:515][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.05:515][124]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.16.05:515][124]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.16.05:516][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.05:521][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.16.05:539][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.05:583][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.05:584][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.15-07.16.05:584][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.12.15-07.16.05:588][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.12.15-07.16.05:603][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2025.12.15-07.16.05:742][125]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2025.12.15-07.16.11:290][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.16.11:316][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.16.11:317][327]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.16.11:320][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003069s)
+[2025.12.15-07.16.11:320][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003156s)
+[2025.12.15-07.16.11:370][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.12.15-07.16.11:377][327]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.16.11:381][327]LogPlayLevel: PIE: World Init took: (0.004136s)
+[2025.12.15-07.16.11:383][327]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.16.11:383][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.16.11:383][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.16.11:383][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.16.11:383][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.16.11:383][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.16.11:388][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.16.11:423][327]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.16.11:424][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.16.11:424][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.16.11:424][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.16.11:427][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.15-07.16.11:427][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.15-07.16.11:431][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.15-07.16.11:431][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.15-07.16.11:431][327]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.15-07.16.11:431][327]LogAudio: Display: Audio Device (ID: 9) registered with world 'MyGame'.
+[2025.12.15-07.16.11:431][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.15-07.16.11:436][327]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.16.11:438][327]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.16.11
+[2025.12.15-07.16.11:439][327]LogWorld: Bringing up level for play took: 0.001891
+[2025.12.15-07.16.11:443][327]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2025.12.15-07.16.11:451][327]PIE: Server logged in
+[2025.12.15-07.16.11:453][327]PIE: Play in editor total start time 0.152 seconds.
+[2025.12.15-07.16.13:755][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.13:755][394]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.16.13:755][394]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.16.13:756][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.13:762][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.16.13:781][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.13:830][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.13:830][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.15-07.16.13:830][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.12.15-07.16.13:835][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.12.15-07.16.13:848][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2025.12.15-07.16.14:002][395]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2025.12.15-07.16.15:671][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2025.12.15-07.16.15:681][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.16.15:747][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/MyGameModeTest] ([2] browsable assets)...
+[2025.12.15-07.16.15:747][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/MyGameModeTest]
+[2025.12.15-07.16.15:747][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/MyGameModeTest" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGameModeTest.uasset" SILENT=true
+[2025.12.15-07.16.15:752][448]LogSavePackage: Moving output files for package: /Game/TestPlayer/MyGameModeTest
+[2025.12.15-07.16.15:753][448]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/MyGameModeTestCCD9D8C544B24CB3F011AB8F9AC4673F.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/MyGameModeTest.uasset'
+[2025.12.15-07.16.15:764][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.930 ms (total: 2.46 sec)
+[2025.12.15-07.16.15:827][448]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.16.15:827][448]LogContentValidation: Enabled validators:
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.16.15:827][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.16.15:827][448]AssetCheck: /Game/TestPlayer/MyGameModeTest Validating asset
+[2025.12.15-07.16.17:226][492]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter
+[2025.12.15-07.16.17:227][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_104
+[2025.12.15-07.16.24:668][707]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.16.24:668][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.24:720][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter
+[2025.12.15-07.16.24:721][707]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_105
+[2025.12.15-07.16.25:491][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.12.15-07.16.50:806][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2025.12.15-07.16.50:820][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.16.50:888][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/BP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.16.50:902][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter]
+[2025.12.15-07.16.50:902][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/BP_MyGameCharacter]
+[2025.12.15-07.16.50:902][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/BP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.16.50:909][327]LogSavePackage: Moving output files for package: /Game/TestPlayer/BP_MyGameCharacter
+[2025.12.15-07.16.50:909][327]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/BP_MyGameCharacter756FE9FC43C1556E2A23CFB92F4C7CF8.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset'
+[2025.12.15-07.16.50:920][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.054 ms (total: 2.56 sec)
+[2025.12.15-07.16.50:995][327]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.16.50:995][327]LogContentValidation: Enabled validators:
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.16.50:995][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.16.50:995][327]AssetCheck: /Game/TestPlayer/BP_MyGameCharacter Validating asset
+[2025.12.15-07.16.51:588][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2025.12.15-07.16.53:790][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.16.53:818][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.16.53:818][397]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.16.53:821][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2025.12.15-07.16.53:821][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003190s)
+[2025.12.15-07.16.53:870][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.12.15-07.16.53:876][397]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.16.53:880][397]LogPlayLevel: PIE: World Init took: (0.004058s)
+[2025.12.15-07.16.53:882][397]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.16.53:882][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.16.53:882][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.16.53:882][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.16.53:882][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.16.53:882][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.16.53:886][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.16.53:921][397]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.16.53:921][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.16.53:921][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.16.53:921][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.16.53:924][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.15-07.16.53:924][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.15-07.16.53:928][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.15-07.16.53:928][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.15-07.16.53:928][397]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.15-07.16.53:928][397]LogAudio: Display: Audio Device (ID: 10) registered with world 'MyGame'.
+[2025.12.15-07.16.53:928][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.15-07.16.53:934][397]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.16.53:936][397]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.16.53
+[2025.12.15-07.16.53:937][397]LogWorld: Bringing up level for play took: 0.002270
+[2025.12.15-07.16.53:941][397]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2025.12.15-07.16.53:949][397]PIE: Server logged in
+[2025.12.15-07.16.53:951][397]PIE: Play in editor total start time 0.15 seconds.
+[2025.12.15-07.16.56:164][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.56:164][483]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.16.56:165][483]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.16.56:165][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.56:172][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.16.56:190][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.16.56:235][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-07.16.56:236][483]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.15-07.16.56:236][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.12.15-07.16.56:240][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.12.15-07.16.56:247][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.16.56:254][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2025.12.15-07.16.56:391][484]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2025.12.15-07.17.00:831][621]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_106
+[2025.12.15-07.17.18:033][621]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.12.15-07.17.20:126][675]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_107
+[2025.12.15-07.17.33:929][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2025.12.15-07.18.27:819][406]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.12.15-07.18.27:832][406]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.12.15-07.18.27:846][406]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.12.15-07.18.27:882][407]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.12.15-07.18.36:794][788]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_MyGameCharacter
+[2025.12.15-07.18.38:193][788]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.12.15-07.18.38:195][788]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_108
+[2025.12.15-07.18.40:733][838]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter
+[2025.12.15-07.18.40:789][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_109
+[2025.12.15-07.18.40:798][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2025.12.15-07.18.40:807][838]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.18.42:343][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2025.12.15-07.18.44:243][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2025.12.15-07.18.44:255][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.18.44:312][859]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.18.44:335][859]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.18.44:335][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.18.44:335][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.18.44:342][859]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.18.44:342][859]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter1D86083E4B1B8F0C70E6F59517CFC144.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.18.45:924][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.66 sec (total: 4.23 sec)
+[2025.12.15-07.18.45:959][859]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.18.45:959][859]LogContentValidation: Enabled validators:
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.18.45:959][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.18.45:959][859]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: ================================================
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Total job queries 643, among them cache hits 24 (3.73%), DDC hits 598 (93.00%), Duplicates 3 (0.47%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Tracking 616 distinct input hashes that result in 406 distinct outputs (65.91%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: RAM used: 268.52 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Average time worker was idle: 240.41 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Time job spent in pending queue: average 1.46 s, longest 4.26 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 7.58 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Job life time (pending + execution): average 4.61 s, max 7.76
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Shader code size: average 9.658 KiB, min 5.488 KiB, max 14.297 KiB
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.56 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.06 jobs/batch
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Average processing rate: 1.88 jobs/sec
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Total thread time: 33.825 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Total thread preprocess time: 28.459 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Percentage time preprocessing: 84.13%
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Effective parallelization: 3.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 4.50 sec, max 5.30 sec, min 3.70 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 2.17 sec, max 2.50 sec, min 1.62 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.87 sec, max 2.63 sec, min 0.73 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.22 sec, max 1.44 sec, min 1.09 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                             FDebugViewModePS - 26.61% of total time (compiled    2 times, average 4.50 sec, max 5.30 sec, min 3.70 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.15% of total time (compiled    4 times, average 1.87 sec, max 2.63 sec, min 0.73 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.23% of total time (compiled    3 times, average 2.17 sec, max 2.50 sec, min 1.62 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.70% of total time (compiled    4 times, average 1.07 sec, max 1.46 sec, min 0.47 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display:                                             FDebugViewModeVS - 10.85% of total time (compiled    3 times, average 1.22 sec, max 1.44 sec, min 1.09 sec)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: === Material stats ===
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Materials Translated:    192
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Material Translation Only: 0.10 s (44%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: Material Cache Hits: 65 (34%)
+[2025.12.15-07.19.01:947][208]LogShaderCompilers: Display: ================================================
+[2025.12.15-07.19.27:113][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.12.15-07.19.27:125][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.19.27:173][777]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.19.27:188][777]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.19.27:188][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.19.27:188][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.19.27:195][777]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.19.27:196][777]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter17D12207464AF343D8E96C91BDCA099E.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.19.27:206][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.358 ms (total: 4.31 sec)
+[2025.12.15-07.19.27:271][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.19.27:271][777]LogContentValidation: Enabled validators:
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.19.27:271][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.19.27:271][777]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.19.27:838][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2025.12.15-07.19.27:898][788]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.12.15-07.19.53:481][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.12.15-07.19.53:493][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.19.53:548][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.19.53:560][329]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.19.53:560][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.19.53:560][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.19.53:571][329]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.19.53:571][329]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterA8A8CDE84B89F8358C23EC9192E09339.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.19.53:582][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.807 ms (total: 4.40 sec)
+[2025.12.15-07.19.53:643][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.19.53:643][329]LogContentValidation: Enabled validators:
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.19.53:643][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.19.53:643][329]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.19.54:124][340]LogBlueprint: Warning: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\ABP_MyGameCharacter.uasset: [Compiler] move to idle  will never be taken, please connect something to  Can Enter Transition
+[2025.12.15-07.19.54:230][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2025.12.15-07.20.10:504][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3155.558350
+[2025.12.15-07.20.10:838][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.20.10:839][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3155.852295, Update Interval: 352.631622
+[2025.12.15-07.20.11:097][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2025.12.15-07.20.11:109][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.20.11:147][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.20.11:159][650]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.20.11:159][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.20.11:159][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.20.11:170][650]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.20.11:171][650]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterB559EDB549CE7673C0F5C2BD38A3344D.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.20.11:181][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.764 ms (total: 4.48 sec)
+[2025.12.15-07.20.11:241][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.20.11:241][650]LogContentValidation: Enabled validators:
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.20.11:241][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.20.11:241][650]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.20.11:872][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2025.12.15-07.20.13:205][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2025.12.15-07.20.20:827][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.15-07.20.21:488][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.12.15-07.20.33:907][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_112
+[2025.12.15-07.20.50:720][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.12.15-07.20.50:734][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.20.50:789][547]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.20.50:802][547]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.20.50:802][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.20.50:802][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.20.50:813][547]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.20.50:814][547]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterBAD9BB1B4CA7469C85A2C1B44215D583.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.20.50:824][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.508 ms (total: 4.57 sec)
+[2025.12.15-07.20.50:884][547]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.20.50:884][547]LogContentValidation: Enabled validators:
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.20.50:884][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.20.50:884][547]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.20.51:696][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.12.15-07.21.27:227][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2025.12.15-07.21.27:241][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.21.27:312][362]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.21.27:326][362]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.21.27:326][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.21.27:326][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.21.27:337][362]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.21.27:338][362]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter76AF119A484CF5D4346A749CAB294AC1.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.21.27:349][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.176 ms (total: 4.67 sec)
+[2025.12.15-07.21.27:404][362]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.21.27:404][362]LogContentValidation: Enabled validators:
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.21.27:404][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.21.27:404][362]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.21.28:197][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2025.12.15-07.21.32:132][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2025.12.15-07.21.32:143][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.21.32:198][468]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.21.32:213][468]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.21.32:213][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.21.32:213][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.21.32:225][468]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.21.32:226][468]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter9DB187B4430E57F8A1DDD68361A8BE6B.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.21.32:237][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.866 ms (total: 4.77 sec)
+[2025.12.15-07.21.32:293][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.21.32:293][468]LogContentValidation: Enabled validators:
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.21.32:293][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.21.32:293][468]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.21.32:974][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2025.12.15-07.21.46:467][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.12.15-07.21.46:479][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.21.46:556][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.21.46:570][731]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.21.46:570][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.21.46:570][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.21.46:581][731]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.21.46:582][731]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter44918B094501F332BF5978A2D80BBFB0.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.21.46:593][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.010 ms (total: 4.88 sec)
+[2025.12.15-07.21.46:659][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.21.46:659][731]LogContentValidation: Enabled validators:
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.21.46:659][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.21.46:659][731]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.21.47:254][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.12.15-07.22.25:619][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2025.12.15-07.22.25:629][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.22.25:665][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.22.25:679][608]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.22.25:679][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.22.25:679][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.22.25:691][608]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.22.25:692][608]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterE5AA6B614B836A3BAB038287D47F48CF.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.22.25:703][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.701 ms (total: 4.95 sec)
+[2025.12.15-07.22.25:745][608]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.22.25:745][608]LogContentValidation: Enabled validators:
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.22.25:745][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.22.25:746][608]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.22.26:209][618]LogBlueprint: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\ABP_MyGameCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_MyGameCharacter  to imply a specific type.
+[2025.12.15-07.22.26:209][618]LogBlueprint: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\ABP_MyGameCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.12.15-07.22.26:313][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2025.12.15-07.22.30:392][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2025.12.15-07.22.30:405][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.22.30:457][708]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.22.30:470][708]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.22.30:470][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.22.30:471][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.22.30:483][708]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.22.30:483][708]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter7E05F29146F5994947D11F852F0FAEEC.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.22.30:496][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.264 ms (total: 5.04 sec)
+[2025.12.15-07.22.30:533][708]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.22.30:533][708]LogContentValidation: Enabled validators:
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.22.30:533][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.22.30:534][708]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.22.31:178][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2025.12.15-07.22.58:752][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2025.12.15-07.22.58:766][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.22.58:818][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.22.58:832][455]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.22.58:833][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.22.58:833][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.22.58:845][455]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.22.58:846][455]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter6C2738004F207272FDFDCBB9539920F4.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.22.58:858][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.135 ms (total: 5.13 sec)
+[2025.12.15-07.22.58:894][455]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.22.58:894][455]LogContentValidation: Enabled validators:
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.22.58:894][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.22.58:894][455]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.22.59:465][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2025.12.15-07.23.06:523][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.12.15-07.23.06:536][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.23.06:572][598]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.23.06:586][598]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.23.06:586][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.23.06:586][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.23.06:599][598]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.23.06:599][598]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter5C3C017146BAF5A832018FB974C2EC46.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.23.06:610][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.247 ms (total: 5.21 sec)
+[2025.12.15-07.23.06:652][598]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.23.06:652][598]LogContentValidation: Enabled validators:
+[2025.12.15-07.23.06:652][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.23.06:652][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.23.06:652][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.23.06:652][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.23.06:653][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.23.06:653][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.23.06:653][598]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.23.07:141][609]LogBlueprint: Warning: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\ABP_MyGameCharacter.uasset: [Compiler] Entry node  Base  is not connected to state
+[2025.12.15-07.23.07:143][609]LogBlueprint: Warning: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\ABP_MyGameCharacter.uasset: [Compiler] There was no entry state connection in  Base
+[2025.12.15-07.23.07:249][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2025.12.15-07.23.13:042][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.23.13:098][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.23.13:113][741]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.23.13:113][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.23.13:113][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.23.13:125][741]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.23.13:126][741]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterBA9DEB95460786B4D1ECE8AA6A45BD29.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.23.13:136][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.856 ms (total: 5.30 sec)
+[2025.12.15-07.23.13:196][741]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.23.13:196][741]LogContentValidation: Enabled validators:
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.23.13:196][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.23.13:196][741]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.23.14:203][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2025.12.15-07.23.19:093][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.23.19:122][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.23.19:122][887]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.23.19:126][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2025.12.15-07.23.19:126][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003361s)
+[2025.12.15-07.23.19:175][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.12.15-07.23.19:183][887]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.23.19:187][887]LogPlayLevel: PIE: World Init took: (0.004426s)
+[2025.12.15-07.23.19:188][887]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.23.19:189][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.23.19:189][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.23.19:189][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.23.19:189][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.23.19:189][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.23.19:194][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.23.19:230][887]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.23.19:231][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.23.19:231][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.23.19:231][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.23.19:236][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.15-07.23.19:236][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.15-07.23.19:240][887]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.15-07.23.19:240][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.15-07.23.19:240][887]LogAudio: Display: Audio Device (ID: 11) registered with world 'MyGame'.
+[2025.12.15-07.23.19:240][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.15-07.23.19:240][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.15-07.23.19:260][887]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.23.19:263][887]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.23.19
+[2025.12.15-07.23.19:263][887]LogWorld: Bringing up level for play took: 0.002072
+[2025.12.15-07.23.19:269][887]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2025.12.15-07.23.19:277][887]PIE: Server logged in
+[2025.12.15-07.23.19:279][887]PIE: Play in editor total start time 0.174 seconds.
+[2025.12.15-07.23.22:271][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.23.22:271][  2]LogWorld: BeginTearingDown for /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.23.22:271][  2]LogWorld: UWorld::CleanupWorld for MyGame, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.23.22:272][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.23.22:279][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.15-07.23.22:297][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.23.22:345][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-07.23.22:346][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.15-07.23.22:346][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.15-07.23.22:350][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.15-07.23.22:356][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.15-07.23.22:363][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2025.12.15-07.23.22:534][  3]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2025.12.15-07.25.40:182][480]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-07.25.40:182][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-07.25.40:236][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestPlayer/MyGameModeTest.MyGameModeTest
+[2025.12.15-07.25.40:238][480]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2025.12.15-07.25.41:113][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2025.12.15-07.25.50:436][777]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TestPlayer/Input/IA_TestInputAction.IA_TestInputAction
+[2025.12.15-07.26.06:141][ 25]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TestPlayer/Input/IMC_TestInputMappingContext.IMC_TestInputMappingContext
+[2025.12.15-07.26.22:515][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2025.12.15-07.26.22:528][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.26.22:587][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/Input/IMC_TestInputMappingContext] ([1] browsable assets)...
+[2025.12.15-07.26.22:588][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Input/IMC_TestInputMappingContext]
+[2025.12.15-07.26.22:591][527]LogSavePackage: Moving output files for package: /Game/TestPlayer/Input/IMC_TestInputMappingContext
+[2025.12.15-07.26.22:591][527]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/IMC_TestInputMappingContext8CEB3D2E454A85C253DDE39C1CBB32CD.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Input/IMC_TestInputMappingContext.uasset'
+[2025.12.15-07.26.22:603][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.915 ms (total: 5.38 sec)
+[2025.12.15-07.26.22:649][527]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.26.22:649][527]LogContentValidation: Enabled validators:
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.26.22:649][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.26.22:649][527]AssetCheck: /Game/TestPlayer/Input/IMC_TestInputMappingContext Validating asset
+[2025.12.15-07.26.49:772][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3554.830811
+[2025.12.15-07.26.50:770][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.26.50:770][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3555.497070, Update Interval: 320.541412
+[2025.12.15-07.27.03:142][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.12.15-07.28.25:570][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.12.15-07.28.25:581][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.28.25:645][ 64]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.28.25:662][ 64]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.28.25:662][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.28.25:662][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.28.25:674][ 64]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.28.25:675][ 64]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter53E7FC3F4C671EAB5FEF31A51FC9F4BB.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.28.25:686][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.644 ms (total: 5.48 sec)
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: Enabled validators:
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.28.25:757][ 64]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.28.25:758][ 64]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.28.28:394][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.12.15-07.28.28:405][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.28.28:466][123]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.28.28:488][123]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.28.28:488][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.28.28:488][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.28.28:501][123]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.28.28:502][123]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacterDCA72E5741F484939B9609BDCF319E0F.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.28.28:512][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.514 ms (total: 5.59 sec)
+[2025.12.15-07.28.28:578][123]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.28.28:578][123]LogContentValidation: Enabled validators:
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.28.28:578][123]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.28.28:578][123]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.29.02:963][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2025.12.15-07.29.03:806][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.15-07.29.04:503][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2025.12.15-07.29.16:689][822]LogDerivedDataCache: C:/Users/YONSAI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.15-07.30.09:703][529]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2025.12.15-07.30.09:717][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.30.09:789][529]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.30.09:805][529]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.30.09:805][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.30.09:806][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.30.09:820][529]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.30.09:821][529]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter328E4F2E40CEBA575C366B854F66B0A3.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.30.09:832][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.156 ms (total: 5.70 sec)
+[2025.12.15-07.30.09:896][529]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.30.09:896][529]LogContentValidation: Enabled validators:
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.30.09:896][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.30.09:896][529]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.30.11:785][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.30.11:856][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/Input/IMC_TestInputMappingContext] ([1] browsable assets)...
+[2025.12.15-07.30.11:856][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Input/IMC_TestInputMappingContext]
+[2025.12.15-07.30.11:859][578]LogSavePackage: Moving output files for package: /Game/TestPlayer/Input/IMC_TestInputMappingContext
+[2025.12.15-07.30.11:859][578]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/IMC_TestInputMappingContextD396AAC047B20EC10D1207AF63C379B3.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Input/IMC_TestInputMappingContext.uasset'
+[2025.12.15-07.30.11:871][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.931 ms (total: 5.79 sec)
+[2025.12.15-07.30.11:962][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.30.11:962][578]LogContentValidation: Enabled validators:
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.30.11:962][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.30.11:963][578]AssetCheck: /Game/TestPlayer/Input/IMC_TestInputMappingContext Validating asset
+[2025.12.15-07.30.13:848][628]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2025.12.15-07.30.15:147][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.15-07.32.04:827][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2025.12.15-07.32.04:847][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.32.04:917][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/BP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.32.04:937][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter]
+[2025.12.15-07.32.04:937][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/BP_MyGameCharacter]
+[2025.12.15-07.32.04:937][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/BP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.32.04:943][303]LogSavePackage: Moving output files for package: /Game/TestPlayer/BP_MyGameCharacter
+[2025.12.15-07.32.04:944][303]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/BP_MyGameCharacterD4E8D9DE4BCFE72D2CC3C587ED09C31B.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset'
+[2025.12.15-07.32.04:956][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.360 ms (total: 5.90 sec)
+[2025.12.15-07.32.05:030][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.32.05:030][303]LogContentValidation: Enabled validators:
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.32.05:030][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.32.05:031][303]AssetCheck: /Game/TestPlayer/BP_MyGameCharacter Validating asset
+[2025.12.15-07.32.10:455][343]LogBlueprint: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\BP_MyGameCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerController  to imply a specific type.
+[2025.12.15-07.32.10:456][343]LogBlueprint: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\BP_MyGameCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.12.15-07.32.10:590][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2025.12.15-07.32.45:879][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2025.12.15-07.32.45:895][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.32.45:957][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/BP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.32.45:970][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter]
+[2025.12.15-07.32.45:970][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/BP_MyGameCharacter]
+[2025.12.15-07.32.45:970][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/BP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.32.45:977][659]LogSavePackage: Moving output files for package: /Game/TestPlayer/BP_MyGameCharacter
+[2025.12.15-07.32.45:977][659]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/BP_MyGameCharacter44C8DFEA444E3F59043B4BAE9F34480A.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset'
+[2025.12.15-07.32.45:990][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.691 ms (total: 6.00 sec)
+[2025.12.15-07.32.46:070][659]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.32.46:070][659]LogContentValidation: Enabled validators:
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.32.46:070][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.32.46:070][659]AssetCheck: /Game/TestPlayer/BP_MyGameCharacter Validating asset
+[2025.12.15-07.32.46:518][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2025.12.15-07.32.49:354][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3914.419922
+[2025.12.15-07.32.49:964][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.32.49:964][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3914.982178, Update Interval: 306.418030
+[2025.12.15-07.32.50:209][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.12.15-07.33.55:609][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2025.12.15-07.33.55:623][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.33.55:677][373]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestPlayer/ABP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.33.55:691][373]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TestPlayer/ABP_MyGameCharacter.ABP_MyGameCharacter]
+[2025.12.15-07.33.55:691][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/ABP_MyGameCharacter]
+[2025.12.15-07.33.55:691][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/ABP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.33.55:703][373]LogSavePackage: Moving output files for package: /Game/TestPlayer/ABP_MyGameCharacter
+[2025.12.15-07.33.55:703][373]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/ABP_MyGameCharacter99B53B59485FAD02BA64E49D8C369C3D.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/ABP_MyGameCharacter.uasset'
+[2025.12.15-07.33.55:716][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.014 ms (total: 6.09 sec)
+[2025.12.15-07.33.55:808][373]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.33.55:808][373]LogContentValidation: Enabled validators:
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.33.55:808][373]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.33.55:808][373]AssetCheck: /Game/TestPlayer/ABP_MyGameCharacter Validating asset
+[2025.12.15-07.34.47:858][659]LogSlate: Window 'Plugins' being destroyed
+[2025.12.15-07.34.47:872][659]LogSlate: Window 'Plugins' being destroyed
+[2025.12.15-07.35.30:234][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2025.12.15-07.35.30:859][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2025.12.15-07.37.00:865][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2025.12.15-07.37.00:884][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.37.00:969][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/BP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.37.00:984][ 86]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter]
+[2025.12.15-07.37.00:984][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/BP_MyGameCharacter]
+[2025.12.15-07.37.00:984][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/BP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.37.00:998][ 86]LogSavePackage: Moving output files for package: /Game/TestPlayer/BP_MyGameCharacter
+[2025.12.15-07.37.00:999][ 86]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/BP_MyGameCharacterC82C2FE243EC3AA31AC80FB18E301873.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset'
+[2025.12.15-07.37.01:022][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.756 ms (total: 6.23 sec)
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: Enabled validators:
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.37.01:093][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.37.01:093][ 86]AssetCheck: /Game/TestPlayer/BP_MyGameCharacter Validating asset
+[2025.12.15-07.38.41:000][422]LogEditorTransaction: Undo Delete current selection
+[2025.12.15-07.38.42:280][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.42:282][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_85:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.42:285][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.42:287][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.42:289][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.42:338][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-07.38.43:802][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4268.861816
+[2025.12.15-07.38.44:099][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.38.44:099][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4269.124512, Update Interval: 324.394043
+[2025.12.15-07.39.15:691][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2025.12.15-07.39.17:182][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2025.12.15-07.39.17:197][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-07.39.17:269][827]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/BP_MyGameCharacter] ([2] browsable assets)...
+[2025.12.15-07.39.17:282][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter]
+[2025.12.15-07.39.17:282][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/BP_MyGameCharacter]
+[2025.12.15-07.39.17:282][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/BP_MyGameCharacter" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset" SILENT=true
+[2025.12.15-07.39.17:290][827]LogSavePackage: Moving output files for package: /Game/TestPlayer/BP_MyGameCharacter
+[2025.12.15-07.39.17:291][827]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/BP_MyGameCharacterD7B4A1424C7C60DE30AD1EB8B9964562.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/BP_MyGameCharacter.uasset'
+[2025.12.15-07.39.17:303][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.897 ms (total: 6.33 sec)
+[2025.12.15-07.39.17:370][827]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-07.39.17:370][827]LogContentValidation: Enabled validators:
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-07.39.17:370][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-07.39.17:371][827]AssetCheck: /Game/TestPlayer/BP_MyGameCharacter Validating asset
+[2025.12.15-07.39.19:888][908]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.15-07.39.19:915][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.15-07.39.19:916][908]LogPlayLevel: Creating play world package: /Game/TestPlayer/UEDPIE_0_MyGame
+[2025.12.15-07.39.19:920][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003810s)
+[2025.12.15-07.39.19:920][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestPlayer/MyGame.MyGame to /Game/TestPlayer/UEDPIE_0_MyGame.MyGame (0.003895s)
+[2025.12.15-07.39.19:975][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2025.12.15-07.39.19:983][908]LogChaosDD: Creating Chaos Debug Draw Scene for world MyGame
+[2025.12.15-07.39.19:988][908]LogPlayLevel: PIE: World Init took: (0.004560s)
+[2025.12.15-07.39.19:989][908]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.15-07.39.19:989][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.15-07.39.19:989][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.15-07.39.19:989][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.15-07.39.19:989][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.15-07.39.19:989][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.15-07.39.19:994][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.15-07.39.20:030][908]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2025.12.15-07.39.20:032][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.15-07.39.20:032][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.15-07.39.20:032][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.15-07.39.20:035][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.15-07.39.20:035][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.15-07.39.20:039][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.15-07.39.20:040][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.15-07.39.20:040][908]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.15-07.39.20:040][908]LogAudio: Display: Audio Device (ID: 12) registered with world 'MyGame'.
+[2025.12.15-07.39.20:040][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.15-07.39.20:055][908]LogLoad: Game class is 'MyGameModeTest_C'
+[2025.12.15-07.39.20:057][908]LogWorld: Bringing World /Game/TestPlayer/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2025.12.15-16.39.20
+[2025.12.15-07.39.20:057][908]LogWorld: Bringing up level for play took: 0.001829
+[2025.12.15-07.39.20:062][908]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.12.15-07.39.20:070][908]PIE: Server logged in
+[2025.12.15-07.39.20:073][908]PIE: Play in editor total start time 0.174 seconds.
