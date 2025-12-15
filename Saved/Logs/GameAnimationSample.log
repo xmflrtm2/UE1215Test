@@ -1883,3 +1883,240 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-06.55.11:714][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1656.763306
 [2025.12.15-06.55.12:713][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.15-06.55.12:713][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1657.432617, Update Interval: 351.529297
+[2025.12.15-06.57.07:120][648]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.57.07:122][648]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TestPlayer/Input/IA_TestInputAction.IA_TestInputAction
+[2025.12.15-06.57.21:298][231]LogSlate: Window 'IA_TestInputAction' being destroyed
+[2025.12.15-06.57.21:309][231]LogSlate: Window 'IA_TestInputAction' being destroyed
+[2025.12.15-06.57.22:576][288]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.57.22:578][288]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TestPlayer/Input/IMC_TestInputMappingContext.IMC_TestInputMappingContext
+[2025.12.15-06.57.47:741][267]LogSlate: Window 'IMC_TestInputMappingContext' being destroyed
+[2025.12.15-06.57.47:748][267]LogSlate: Window 'IMC_TestInputMappingContext' being destroyed
+[2025.12.15-06.57.53:323][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.12.15-06.57.53:333][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-06.57.53:393][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/Input/IA_TestInputAction] ([1] browsable assets)...
+[2025.12.15-06.57.53:393][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Input/IA_TestInputAction]
+[2025.12.15-06.57.53:393][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Input/IA_TestInputAction" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Input/IA_TestInputAction.uasset" SILENT=true
+[2025.12.15-06.57.53:395][399]LogSavePackage: Moving output files for package: /Game/TestPlayer/Input/IA_TestInputAction
+[2025.12.15-06.57.53:396][399]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/IA_TestInputActionA4CB0E6C454AE22BBB8617A05E941831.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Input/IA_TestInputAction.uasset'
+[2025.12.15-06.57.53:398][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestPlayer/Input/IMC_TestInputMappingContext] ([1] browsable assets)...
+[2025.12.15-06.57.53:398][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Input/IMC_TestInputMappingContext]
+[2025.12.15-06.57.53:400][399]LogSavePackage: Moving output files for package: /Game/TestPlayer/Input/IMC_TestInputMappingContext
+[2025.12.15-06.57.53:400][399]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/IMC_TestInputMappingContext3C6ED90345B622AAE7C61B94B6F85258.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Input/IMC_TestInputMappingContext.uasset'
+[2025.12.15-06.57.53:414][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.383 ms (total: 472.830 ms)
+[2025.12.15-06.57.53:485][399]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.15-06.57.53:485][399]LogContentValidation: Enabled validators:
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-06.57.53:485][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-06.57.53:485][399]AssetCheck: /Game/TestPlayer/Input/IA_TestInputAction Validating asset
+[2025.12.15-06.57.53:486][399]AssetCheck: /Game/TestPlayer/Input/IMC_TestInputMappingContext Validating asset
+[2025.12.15-06.57.53:486][399]AssetCheck: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\Input\IMC_TestInputMappingContext.uasset: A mapping cannot have an empty input action!
+[2025.12.15-06.57.53:486][399]AssetCheck: Error: [AssetLog] C:\Users\YONSAI\Documents\GitHub\UE1215Test\Content\TestPlayer\Input\IMC_TestInputMappingContext.uasset: A mapping cannot have an empty input action!
+[2025.12.15-06.57.57:678][573]LogSlate: Window 'Message Log' being destroyed
+[2025.12.15-06.57.57:694][573]LogSlate: Window 'Message Log' being destroyed
+[2025.12.15-06.57.58:392][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.15-06.57.59:874][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.15-06.58.06:574][938]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.06:679][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.12.15-06.58.06:717][938]LogSkeletalMesh: Building Skeletal Mesh SKM_Face_Preview...
+[2025.12.15-06.58.06:791][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.12.15-06.58.06:822][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.12.15-06.58.06:972][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.12.15-06.58.07:014][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.12.15-06.58.07:071][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.12.15-06.58.07:116][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.12.15-06.58.07:151][938]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.12.15-06.58.07:332][938]LogSkeletalMesh: Skeletal mesh [/Game/MetaHumans/Common/Face/SKM_Face_Preview.SKM_Face_Preview]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.12.15-06.58.07:344][938]LogSkeletalMesh: Built Skeletal Mesh [0.63s] /Game/MetaHumans/Common/Face/SKM_Face_Preview.SKM_Face_Preview
+[2025.12.15-06.58.27:893][938]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.12.15-06.58.28:031][941]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.12.15-06.58.39:414][124]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.39:449][124]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/YONSAI/Downloads/Waving Gesture.fbx]
+[2025.12.15-06.58.50:381][124]LogSlate: Window 'Import Content' being destroyed
+[2025.12.15-06.58.50:425][124]LogInterchangeEngine: [Pending] Importing
+[2025.12.15-06.58.50:525][125]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.50:743][127]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.12.15-06.58.51:046][134]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.51:178][136]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.51:658][149]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.58.51:698][150]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/TestPlayer/Waving_Gesture_Anim.Waving_Gesture_Anim (Required Memory Estimate: 0.67 MB)
+[2025.12.15-06.58.51:719][150]LogAnimationCompression: Display: Storing compressed animation data for /Game/TestPlayer/Waving_Gesture_Anim.Waving_Gesture_Anim, at AnimationSequence/92c16bf78e9d1f1c663a7ae8f38d6cb7ff84b29c
+[2025.12.15-06.58.51:825][150]LogTexture: Display: Building textures: /Game/TestPlayer/Ch09_1001_Glossiness.Ch09_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2025.12.15-06.58.51:825][150]LogTexture: Display: Building textures: /Game/TestPlayer/Ch09_1001_Specular.Ch09_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2025.12.15-06.58.51:863][150]LogSkeletalMesh: Building Skeletal Mesh Waving_Gesture...
+[2025.12.15-06.58.52:021][151]LogTexture: Display: Building textures: /Game/TestPlayer/Ch09_1001_Diffuse.Ch09_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.15-06.58.52:054][151]LogTexture: Display: Building textures: /Game/TestPlayer/Ch09_1001_Normal.Ch09_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.15-06.58.52:280][152]LogTexture: Display: Waiting for textures to be ready 0/4 (/Game/TestPlayer/Ch09_1001_Normal) ...
+[2025.12.15-06.58.53:379][152]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.15-06.58.53:425][152]LogSkeletalMesh: Built Skeletal Mesh [1.56s] /Game/TestPlayer/Waving_Gesture.Waving_Gesture
+[2025.12.15-06.58.53:545][152]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.15-06.58.53:686][153]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.12.15-06.58.53:697][153]LogMaterial: Display: Material /Game/TestPlayer/Ch09_body.Ch09_body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.15-06.58.53:706][153]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.58.53:707][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.58.53:820][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2025.12.15-06.58.53:990][154]LogInterchangeEngine: Display: Interchange import completed [C:/Users/YONSAI/Downloads/Waving Gesture.fbx]
+[2025.12.15-06.58.53:990][154]Interchange: Warning: [C:/Users/YONSAI/Downloads/Waving Gesture.fbx : 'Waving Gesture', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.12.15-06.58.53:991][154]Interchange: Warning: [C:/Users/YONSAI/Downloads/Waving Gesture.fbx : 'Waving_Gesture', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.15-06.58.54:192][154]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.15-06.58.54:192][154]LogInterchangeEngine: [Success] Import Done
+[2025.12.15-06.58.58:925][268]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.15-06.58.58:992][268]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.15-06.58.59:039][269]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.15-06.59.01:784][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.12.15-06.59.01:822][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.12.15-06.59.01:892][360]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.12.15-06.59.03:310][420]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2025.12.15-06.59.03:311][420]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.15-06.59.14:835][847]LogMetaData: Removing '/Game/TestPlayer/Character/Waving_Gesture.Waving_Gesture' ref from Metadata '/Game/TestPlayer/Waving_Gesture.PackageMetaData'
+[2025.12.15-06.59.14:837][847]LogMetaData: Removing '/Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim' ref from Metadata '/Game/TestPlayer/Waving_Gesture_Anim.PackageMetaData'
+[2025.12.15-06.59.14:838][847]LogMetaData: Removing '/Game/TestPlayer/Character/Waving_Gesture_Skeleton.Waving_Gesture_Skeleton' ref from Metadata '/Game/TestPlayer/Waving_Gesture_Skeleton.PackageMetaData'
+[2025.12.15-06.59.14:838][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-06.59.14:839][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Diffuse] ([1] browsable assets)...
+[2025.12.15-06.59.14:841][847]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Diffuse.Ch09_1001_Diffuse]
+[2025.12.15-06.59.14:841][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Diffuse]
+[2025.12.15-06.59.15:016][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Diffuse
+[2025.12.15-06.59.15:016][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_Diffuse10F2A2274CFD7378D1D771A78655F004.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Diffuse.uasset'
+[2025.12.15-06.59.15:018][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Glossiness] ([1] browsable assets)...
+[2025.12.15-06.59.15:021][847]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Glossiness.Ch09_1001_Glossiness]
+[2025.12.15-06.59.15:021][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Glossiness]
+[2025.12.15-06.59.15:074][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Glossiness
+[2025.12.15-06.59.15:074][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_GlossinessAFF287BD49E9811CF4A7DD81FDB4CD4E.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Glossiness.uasset'
+[2025.12.15-06.59.15:077][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Normal] ([1] browsable assets)...
+[2025.12.15-06.59.15:080][847]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Normal.Ch09_1001_Normal]
+[2025.12.15-06.59.15:080][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Normal]
+[2025.12.15-06.59.15:296][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Normal
+[2025.12.15-06.59.15:296][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_NormalBD32E2EB4D2C8BB6119A319D4EFE2086.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Normal.uasset'
+[2025.12.15-06.59.15:298][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_1001_Specular] ([1] browsable assets)...
+[2025.12.15-06.59.15:301][847]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TestPlayer/Character/Ch09_1001_Specular.Ch09_1001_Specular]
+[2025.12.15-06.59.15:301][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_1001_Specular]
+[2025.12.15-06.59.15:343][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_1001_Specular
+[2025.12.15-06.59.15:343][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_1001_SpecularE0CDAB8E4D6ED1725B3777B1B09B1114.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_1001_Specular.uasset'
+[2025.12.15-06.59.15:345][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Ch09_body] ([1] browsable assets)...
+[2025.12.15-06.59.15:392][847]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TestPlayer/Character/Ch09_body.Ch09_body]
+[2025.12.15-06.59.15:392][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Ch09_body]
+[2025.12.15-06.59.15:392][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Character/Ch09_body" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_body.uasset" SILENT=true
+[2025.12.15-06.59.15:397][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Ch09_body
+[2025.12.15-06.59.15:397][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Ch09_body106CA15D463A7E4E8671A5B62B2A8DFA.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Ch09_body.uasset'
+[2025.12.15-06.59.15:399][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Waving_Gesture] ([1] browsable assets)...
+[2025.12.15-06.59.15:400][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.12.15-06.59.15:420][847]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/TestPlayer/Character/Waving_Gesture.Waving_Gesture]
+[2025.12.15-06.59.15:420][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Waving_Gesture]
+[2025.12.15-06.59.15:420][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPlayer/Character/Waving_Gesture" FILE="../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Waving_Gesture.uasset" SILENT=true
+[2025.12.15-06.59.15:450][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Waving_Gesture
+[2025.12.15-06.59.15:450][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Waving_Gesture669C405646781E1538590183A4CB094A.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Waving_Gesture.uasset'
+[2025.12.15-06.59.15:453][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Waving_Gesture_Anim] ([1] browsable assets)...
+[2025.12.15-06.59.15:465][847]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim]
+[2025.12.15-06.59.15:465][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Waving_Gesture_Anim]
+[2025.12.15-06.59.15:473][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Waving_Gesture_Anim
+[2025.12.15-06.59.15:473][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Waving_Gesture_Anim6E07F08943DE15393D80CA8ED939DCAC.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Waving_Gesture_Anim.uasset'
+[2025.12.15-06.59.15:475][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Waving_Gesture_PhysicsAsset] ([1] browsable assets)...
+[2025.12.15-06.59.15:485][847]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/TestPlayer/Character/Waving_Gesture_PhysicsAsset.Waving_Gesture_PhysicsAsset]
+[2025.12.15-06.59.15:485][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Waving_Gesture_PhysicsAsset]
+[2025.12.15-06.59.15:491][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Waving_Gesture_PhysicsAsset
+[2025.12.15-06.59.15:491][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Waving_Gesture_PhysicsAsset7316242E4BC04050BD35B698779D94EE.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Waving_Gesture_PhysicsAsset.uasset'
+[2025.12.15-06.59.15:493][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestPlayer/Character/Waving_Gesture_Skeleton] ([1] browsable assets)...
+[2025.12.15-06.59.15:494][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.12.15-06.59.15:517][847]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/TestPlayer/Character/Waving_Gesture_Skeleton.Waving_Gesture_Skeleton]
+[2025.12.15-06.59.15:517][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestPlayer/Character/Waving_Gesture_Skeleton]
+[2025.12.15-06.59.15:520][847]LogSavePackage: Moving output files for package: /Game/TestPlayer/Character/Waving_Gesture_Skeleton
+[2025.12.15-06.59.15:520][847]LogSavePackage: Moving '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Saved/Waving_Gesture_Skeleton9A74F9F24015208F7F1A77BD316F0521.tmp' to '../../../../../../Users/YONSAI/Documents/GitHub/UE1215Test/Content/TestPlayer/Character/Waving_Gesture_Skeleton.uasset'
+[2025.12.15-06.59.15:521][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 682.902 ms (total: 1.15 sec)
+[2025.12.15-06.59.15:783][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.12.15-06.59.15:815][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.12.15-06.59.15:846][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.12.15-06.59.15:870][847]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.15-06.59.15:870][847]LogContentValidation: Display: Starting to validate 9 assets
+[2025.12.15-06.59.15:870][847]LogContentValidation: Enabled validators:
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-06.59.15:870][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-06.59.15:870][847]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Diffuse Validating asset
+[2025.12.15-06.59.15:870][847]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Glossiness Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Normal Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Ch09_1001_Specular Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Ch09_body Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Waving_Gesture Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Waving_Gesture_Anim Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Waving_Gesture_PhysicsAsset Validating asset
+[2025.12.15-06.59.15:871][847]AssetCheck: /Game/TestPlayer/Character/Waving_Gesture_Skeleton Validating asset
+[2025.12.15-06.59.26:716][265]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/TestPlayer/Character/Waving_Gesture.Waving_Gesture
+[2025.12.15-06.59.26:732][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.12.15-06.59.26:744][265]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-06.59.26:767][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-06.59.34:116][433]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/TestPlayer/Character/Waving_Gesture_Skeleton.Waving_Gesture_Skeleton
+[2025.12.15-06.59.34:117][433]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.12.15-06.59.34:127][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-06.59.34:488][433]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.12.15-06.59.36:746][476]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TestPlayer/Character/Waving_Gesture_Anim.Waving_Gesture_Anim
+[2025.12.15-06.59.36:748][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.12.15-06.59.36:776][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.15-06.59.37:039][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.12.15-06.59.37:552][476]LogSlate: Took 0.012279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.15-06.59.37:580][476]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.12.15-06.59.37:591][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.12.15-06.59.41:041][563]LogSlate: Window 'Waving_Gesture_Anim' being destroyed
+[2025.12.15-06.59.41:048][563]LogSlate: Window 'Waving_Gesture_Anim' being destroyed
+[2025.12.15-06.59.41:090][563]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:090][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:218][563]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:218][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:273][563]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:273][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:326][563]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:326][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:337][563]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:337][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:389][563]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.59.41:389][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.59.41:469][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.12.15-07.01.01:863][815]LogShaderCompilers: Display: ================================================
+[2025.12.15-07.01.01:863][815]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Total job queries 603, among them cache hits 14 (2.32%), DDC hits 570 (94.53%), Duplicates 3 (0.50%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Tracking 586 distinct input hashes that result in 388 distinct outputs (66.21%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: RAM used: 262.53 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Time job spent in pending queue: average 1.63 s, longest 4.26 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Job execution time: average 3.34 s, max 7.58 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Job life time (pending + execution): average 4.97 s, max 7.76
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Shader code size: average 9.558 KiB, min 5.488 KiB, max 14.297 KiB
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.78 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.07 jobs/batch
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Total thread time: 32.633 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Total thread preprocess time: 27.682 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Percentage time preprocessing: 84.83%
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Effective parallelization: 4.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 4.50 sec, max 5.30 sec, min 3.70 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.26 sec, max 2.63 sec, min 1.72 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 2.17 sec, max 2.50 sec, min 1.62 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.28 sec, max 1.46 sec, min 1.09 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                             FDebugViewModePS - 27.58% of total time (compiled    2 times, average 4.50 sec, max 5.30 sec, min 3.70 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.73% of total time (compiled    3 times, average 2.26 sec, max 2.63 sec, min 1.72 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.94% of total time (compiled    3 times, average 2.17 sec, max 2.50 sec, min 1.62 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.73% of total time (compiled    3 times, average 1.28 sec, max 1.46 sec, min 1.09 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display:                                             FDebugViewModeVS - 11.25% of total time (compiled    3 times, average 1.22 sec, max 1.44 sec, min 1.09 sec)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: === Material stats ===
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Materials Translated:    191
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Material Translation Only: 0.10 s (44%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: Material Cache Hits: 64 (34%)
+[2025.12.15-07.01.01:864][815]LogShaderCompilers: Display: ================================================
+[2025.12.15-07.01.43:222][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2048.271240
+[2025.12.15-07.01.44:225][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-07.01.44:226][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2048.939453, Update Interval: 324.463623
