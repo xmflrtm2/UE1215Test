@@ -1870,3 +1870,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.15-06.49.20:187][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1305.236572
 [2025.12.15-06.49.21:189][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.15-06.49.21:189][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1305.906860, Update Interval: 331.487793
+[2025.12.15-06.53.57:594][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestPlayer/BP_MyGameCharacter.BP_MyGameCharacter
+[2025.12.15-06.53.57:595][374]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.12.15-06.54.12:344][753]LogSlate: Window 'BP_MyGameCharacter' being destroyed
+[2025.12.15-06.54.12:352][753]LogSlate: Window 'BP_MyGameCharacter' being destroyed
+[2025.12.15-06.54.12:359][753]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-06.54.12:360][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-06.54.12:482][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.15-06.54.19:629][824]LogSlate: Window 'Retarget Animations' being destroyed
+[2025.12.15-06.54.31:111][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.15-06.54.32:290][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
