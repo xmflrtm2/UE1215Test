@@ -19681,3 +19681,17 @@ Script Stack (0 frames) :
 [2025.12.17-07.39.28:623][529]LogNetworkingProfiler: Shutdown
 [2025.12.17-07.39.28:623][529]LoadingProfiler: Shutdown
 [2025.12.17-07.39.28:624][529]LogTimingProfiler: Shutdown
+[2025.12.17-07.39.29:181][529]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.17-07.39.29:183][529]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.17-07.39.29:183][529]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.17-07.39.29:184][529]RenderDocPlugin: plugin has been unloaded.
+[2025.12.17-07.39.29:209][529]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.17-07.39.29:209][529]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBF694A0E-4EDF-9401-7758-E990FC891731%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=3d051b3f47bd6519d4cbd4a35e317669%7C0b24cd9d06f446ae84d69aab4f0d92f3%7C6175129e-1107-4f3b-827a-af90742a4a8f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.17-07.39.30:272][529]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.17-07.39.30:288][529]LogXGEController: Cleaning working directory: C:/Users/YONSAI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.17-07.39.30:292][529]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.17-07.39.30:292][529]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.17-07.39.30:292][529]LogPakFile: Destroying PakPlatformFile
+[2025.12.17-07.39.31:490][529]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.17-07.39.31:592][529]LogExit: Exiting.
+[2025.12.17-07.39.31:641][529]Log file closed, 12/17/25 16:39:31
