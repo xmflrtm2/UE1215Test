@@ -1,5 +1,2 @@
-[1216/185836.204:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
-[1216/185836.647:ERROR:backend_impl.cc(1041)] Critical error found -8
-[1216/185836.988:WARNING:storage_block-inl.h(146)] Failed data load.
-[1216/185837.610:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1216/190036.441:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1217/143615.192:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[1217/143815.443:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
