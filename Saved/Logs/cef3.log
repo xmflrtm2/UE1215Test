@@ -1,2 +1,9 @@
-[1217/143615.192:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
-[1217/143815.443:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1218/143824.612:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1218/143824.973:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1218/144002.951:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
